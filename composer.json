@@ -1,16 +1,12 @@
-{
-    "require": {
-        "php": ">=8.3.1",
-        "ext-PDO": "*",
-        "ext-pdo_mysql": "*",
-        "ext-mysqli": "*",
-        "ext-xml": "*",
-        "ext-json": "*",
-        "ext-openssl": "*",
-        "ext-mcrypt": "*",
-        "ext-curl": "*",
-        "ext-gd": "*",
-        "ext-mbstring": "*"
-
-    }
+"require": {
+    "php": ">=8.3.1",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*",
+    "ext-mysqli": "*",
+    "ext-xml": "*",
+    "ext-json": "*",
+    "ext-openssl": "*",
+    "ext-curl": "*",
+    "ext-gd": "*",
+    "ext-mbstring": "*"
 }
